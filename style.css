@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+h1{
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+}
+
+ul{
+    display: flex;
+    align-items: center;
+    list-style: none;
+    gap: 30px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+nav{
+    height: 6rem;
+    background-color: rgb(167, 106, 84);
+    padding: 0 2.4rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+div{
+    display: flex;
+    justify-content: space-evenly;
+}
